@@ -11,7 +11,7 @@ Data querying: SQL, PostgreSQL.
 - 📫 You can reach me through the following channels:
 LinkedIn:
 Email: hananiahdominic@gmail.com
-Portfolio: 
+Portfolio: https://hananiahdominic.github.io/
 
 <!---
 HananiahDominic/HananiahDominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
